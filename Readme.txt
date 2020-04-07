@@ -1,0 +1,1 @@
+This programs returns the length of the string entered.
